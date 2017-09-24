@@ -1,15 +1,14 @@
-<<<<<<< HEAD
 nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps��1633��
 $ git initaa
+bbbbb
 =======
 nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps£¨1633£©
 $ git init
->>>>>>> 3060ab4833ca0a56a2fcffa63c89fc5ff555e0da
 Initialized empty Git repository in C:/Users/nanxiang.xie/IdeaProjects/Cosftps/.git/
 
 nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
 $ git remote add origin git@192.168.110.16:yueteng.liu/cos-ftp.git
-远程更新到本地
+远程更新到本�?
 git merge origin/master
 
 nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
