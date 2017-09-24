@@ -1,9 +1,107 @@
-﻿nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps£¨1633£©
-$ git initaa
-<<<<<<< HEAD
-xielocal
-=======
-xieweb
->>>>>>> 6f3373fd3b23b155c8e66c95fd162aebb1b1c335
-ddd
-bbbbbccc
+﻿xielocalhost
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/CosftpsÂ£Â¨1633Â£Â©
+$ git init
+Initialized empty Git repository in C:/Users/nanxiang.xie/IdeaProjects/Cosftps/.git/
+
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
+$ git remote add origin git@192.168.110.16:yueteng.liu/cos-ftp.git
+è¿œç¨‹æ›´æ–°åˆ°æœ¬åœ?
+git merge origin/master
+
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
+$ git add src
+warning: LF will be replaced by CRLF in src/com/chinacache/DataConnection.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/com/chinacache/command/COSDELE.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/com/chinacache/command/COSMKD.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/com/chinacache/command/COSRETR.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/com/chinacache/command/COSRMD.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/com/chinacache/command/COSSTOR.java.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in src/com/chinacache/command/FtpIoSession.java.
+The file will have its original line endings in your working directory.
+
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
+$ git add build.xml ivy.xml log4j2.xml users.properties
+warning: LF will be replaced by CRLF in build.xml.
+The file will have its original line endings in your working directory.
+warning: LF will be replaced by CRLF in ivy.xml.
+The file will have its original line endings in your working directory.
+
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
+$ git commit -m "add sources"
+[master (root-commit) 8d30d03] add sources
+ Committer: nanxiang.xie <nanxiang.xie@chinacache.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 45 files changed, 8365 insertions(+)
+ create mode 100644 build.xml
+ create mode 100644 ivy.xml
+ create mode 100644 log4j2.xml
+ create mode 100644 src/Auditor.java
+ create mode 100644 src/com/chinacache/CosFtpServer.java
+ create mode 100644 src/com/chinacache/DataConnection.java
+ create mode 100644 src/com/chinacache/MyFileSystemFactory.java
+ create mode 100644 src/com/chinacache/MyFileSystemView.java
+ create mode 100644 src/com/chinacache/MyFtpFile.java
+ create mode 100644 src/com/chinacache/MyFtpHandlerAdapter.java
+ create mode 100644 src/com/chinacache/MyFtpIoSession.java
+ create mode 100644 src/com/chinacache/MyIODataConnection.java
+ create mode 100644 src/com/chinacache/MyIODataConnectionFactory.java
+ create mode 100644 src/com/chinacache/MyListenerFactory.java
+ create mode 100644 src/com/chinacache/MyNioListener.java
+ create mode 100644 src/com/chinacache/Test.java
+ create mode 100644 src/com/chinacache/command/COSDELE.java
+ create mode 100644 src/com/chinacache/command/COSMKD.java
+ create mode 100644 src/com/chinacache/command/COSRETR.java
+ create mode 100644 src/com/chinacache/command/COSRMD.java
+ create mode 100644 src/com/chinacache/command/COSSTOR.java
+ create mode 100644 src/com/chinacache/command/FtpIoSession.java
+ create mode 100644 src/com/chinacache/command/MyFtpIoSession.java
+ create mode 100644 src/com/chinacache/cos/A.java
+ create mode 100644 src/com/chinacache/cos/AkskSample.java
+ create mode 100644 src/com/chinacache/cos/Client.java
+ create mode 100644 src/com/chinacache/cos/ClientFactory.java
+ create mode 100644 src/com/chinacache/cos/CopyObjectSample.java
+ create mode 100644 src/com/chinacache/cos/CreateDirectorySample.java
+ create mode 100644 src/com/chinacache/cos/GetStartedSample.java
+ create mode 100644 src/com/chinacache/cos/MetaSample.java
+ create mode 100644 src/com/chinacache/cos/MultipartUploadSample.java
+ create mode 100644 src/com/chinacache/cos/RunAllCaseSample.java
+
+
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
+$ git push -u origin master
+GitLab: You are not allowed to push code to this project.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
+$ git push -u origin master
+Counting objects: 53, done.
+Delta compression using up to 8 threads.
+Compressing objects: 100% (52/52), done.
+Writing objects: 100% (53/53), 50.04 KiB | 1.02 MiB/s, done.
+Total 53 (delta 17), reused 0 (delta 0)
+To 192.168.110.16:yueteng.liu/cos-ftp.git
+ * [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+
+nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
+>>>>>>> ead40d4671049acc220b5641d7191a7462037b2e
