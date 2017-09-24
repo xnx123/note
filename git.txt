@@ -1,5 +1,5 @@
 nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps£¨1633£©
-$ git init
+$ git initaa
 Initialized empty Git repository in C:/Users/nanxiang.xie/IdeaProjects/Cosftps/.git/
 
 nanxiang.xie@xienanxiang-pc MINGW64 ~/IdeaProjects/Cosftps (master)
