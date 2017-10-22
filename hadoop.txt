@@ -1,0 +1,12 @@
+xie.txt 
+
+hadoop fs -mkdir input
+Hadoop namenode -format
+Start-all.sh
+Stop-all.sh
+
+
+bin/start-hbase.sh
+http://localhost:16010/master-status
+
+hadoop fs -ls /

@@ -22,10 +22,55 @@ bbs
 
 
 
-借蔡军1500
+借蔡军1500+4000（回来减去800房租）
 =======
 北邮人
 校园招聘
 
 
 >>>>>>> 124f2cadfa974d91b193fe3b53aae9069361cbe1
+
+csdn学院
+还书
+echarts
+
+
+
+比如以下命令可以列出文件系统中组成各个文件的块。
+
+ 　　hadoop  fsck/　-files  -blocks
+
+Spring mvc
+ $.ajax(
+            {
+                url:"get.do",
+                data:{},
+                type:"POST",
+                dataType:"text",
+                error:function(data){
+                    alert("出错了！！:"+JSON.stringify(data));
+                },
+                success:function(data)
+                {
+                    alert(data);
+                }
+            }
+        );
+
+
+
+
+hadoop spark别走偏了
+
+ldconfig命令的用途主要是在默认搜寻目录/lib和/usr/lib以及动态库配置文件/etc/ld.so.conf内所列的目录下，搜索出可共享的动态链接库（格式如lib*.so*）,进而创建出动态装入程序(ld.so)所需的连接和缓存文件。缓存文件默认为/etc/ld.so.cache，此文件保存已排好序的动态链接库名字列表，为了让动态链接库为系统所共享，需运行动态链接库的管理命令ldconfig，此执行程序存放在/sbin目录下。 ldconfig通常在系统启动时运行，而当用户安装了一个新的动态链接库时，就需要手工运行这个命令：sudo ldconfig
+
+
+systemctl stop mariadb.service
+
+
+10.134.95.116 vm
+10.134.83.65
+
+
+
+
