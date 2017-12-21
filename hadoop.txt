@@ -1,6 +1,5 @@
 xie.txt
-
-第一次
+第二次
 
 hadoop fs -mkdir input
 Hadoop namenode -format
