@@ -10,3 +10,10 @@ bin/start-hbase.sh
 http://localhost:16010/master-status
 
 hadoop fs -ls /
+
+39.106.61.18
+lsb_release -a
+39.106.3.151
+
+vpc-2zegpbrhiyrs4jlon1d2s
+vpc-2ze98y7ecydn87etfvhns

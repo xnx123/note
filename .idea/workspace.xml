@@ -2,7 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d83d31bf-98c9-472c-8661-2cf24c469ec9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-aop-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-aspects-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-beans-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-context-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-context-support-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-core-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-expression-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-instrument-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-instrument-tomcat-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-jdbc-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-jms-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-messaging-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-orm-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-oxm-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-test-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-tx-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-web-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-webmvc-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-webmvc-portlet-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/lib/spring-websocket-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/classes/hello/Get.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/classes/hello/hello.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-aspects-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-context-support-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-instrument-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-jdbc-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-jms-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-messaging-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-orm-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-oxm-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-test-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-tx-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-webmvc-portlet-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/lib/spring-websocket-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/target/classes/hello/Get.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/target/classes/hello/hello.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-aspects-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-context-support-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-instrument-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-instrument-tomcat-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-jdbc-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-jms-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-messaging-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-orm-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-oxm-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-test-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-tx-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-webmvc-portlet-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/lib/spring-websocket-4.3.12.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mybatis-generator-core-1.3.2.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xienanxiang.pages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/谢南翔+南开大学+计算机技术专业.docx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/.idea/artifacts/com_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/.idea/libraries/Spring_4_3_12_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/.idea/libraries/Spring_MVC_4_3_12_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/com.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/dispatcher-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/js/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/js/esl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/jsp/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/jsp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/out/artifacts/com_war_exploded/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/src/main/java/hello/Get.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/src/main/java/hello/hello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/dispatcher-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/js/echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/js/esl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/jsp/hello.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/jsp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/web/index.jsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xie的副本.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/~$死亡笔记.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/谢南翔简历.docx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/谢南翔简历.pages" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/死亡笔记.docx" afterPath="$PROJECT_DIR$/死亡笔记.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hadoop.txt" afterPath="$PROJECT_DIR$/hadoop.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/today-thingover!" afterPath="$PROJECT_DIR$/today-thingover!" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/xie.txt" afterPath="$PROJECT_DIR$/xie.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,6 +123,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="aaa" />
+      </map>
+    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -61,8 +175,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -169,25 +283,26 @@
       <workItem from="1506438462084" duration="85000" />
       <workItem from="1506514718443" duration="40000" />
       <workItem from="1506514813726" duration="7000" />
+      <workItem from="1513864959696" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="335000" />
+    <option name="totallyTimeSpent" value="1693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="829" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2639485" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -211,6 +326,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="202" height="285" key="Git.Branch.Popup" />
+    <state width="202" height="285" key="Git.Branch.Popup/0.0.1440.900" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
